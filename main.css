@@ -1,0 +1,28 @@
+.box {
+    width: 100px;
+    height: 100px;
+    color: blue;
+}
+#gridContainer{
+    display: grid;
+    grid-template-columns: 1200px ;
+    color: blue;
+    
+}
+
+.row{
+    
+    background-color: white;
+}
+.col-sm border border-dark box white{
+    background-color: white;
+}
+div.row{
+    color: blue;
+    background-color: white;
+}
+tr{
+    display: grid;
+    grid-template-columns: 1200px 100px;
+    color: blue;
+}
