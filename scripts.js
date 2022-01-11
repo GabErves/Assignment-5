@@ -13,7 +13,7 @@ function addRow(){
     for(let r=0; i<columns; r++){
         let col = document.createElement("div")
         col.classList.add('col-sm border border-dark box white');
-        col.addEventListener("click",$)
+        
     }
     
           // append table row i;
